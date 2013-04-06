@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">flexy_app01</string>
+
+    <string name="user_fullname"> ФИО</string>
+    <string name="user_birthday">Дата рождения</string>
+
+    <string-array name="city_array">
+        <item>Москва</item>
+        <item>НьюЙорк</item>
+        <item>Гатчино</item>
+    </string-array>
+
+    <string name="hobby_swim"> плавание </string>
+    <string name="hobby_football"> футбол </string>
+
+    <string name="reg_btn"> Зарегистрироваться </string>
+    <string name="exit_btn"> Выйти </string>
+
+
+</resources>

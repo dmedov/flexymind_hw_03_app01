@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">flexy_app01</string>
+
+    <string name="user_fullname"> Full name</string>
+    <string name="user_birthday"> Date of birth</string>
+
+    <string-array name="city_array">
+        <item>Moscow</item>
+        <item>NewYork</item>
+        <item>Gat4ino</item>
+    </string-array>
+
+    <string name="hobby_swim"> swim </string>
+    <string name="hobby_football"> football </string>
+
+    <string name="reg_btn"> Register </string>
+    <string name="exit_btn"> Quit </string>
+</resources>
